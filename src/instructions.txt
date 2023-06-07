@@ -1,0 +1,4 @@
+form at top of page 
+pass name, email address, city
+onSubmit sends network request, adds item to people's state
+new object at end of people array displays at bottom of page (No. 11, 12, etc.)
